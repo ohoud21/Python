@@ -1,3 +1,1 @@
-print("hello")
-print("Second")
-print(11)
+print("Hello World")
